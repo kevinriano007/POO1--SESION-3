@@ -25,4 +25,4 @@
 $persona1 = new persona("Juan", "Pérez", 30);
 $persona1->mostrar();
 
-?>
+:?>
